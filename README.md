@@ -1,0 +1,1 @@
+# woocommerce-order-email-modification
